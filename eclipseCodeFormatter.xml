@@ -1,0 +1,22 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1484106611867" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="C:/java/IDE/skt_tts_carshare.xml" />
+          <option name="selectedJavaProfile" value="skt_tts_carshare" />
+        </Settings>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1560903771600" />
+          <option name="name" value="TCMS" />
+          <option name="pathToConfigFileJava" value="C:/project/workspace/myformat.xml" />
+          <option name="selectedJavaProfile" value="myFormat" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
