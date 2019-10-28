@@ -143,5 +143,13 @@
         <url>file://C:/project/workspace/tcms/tibero-6.jar</url>
       </library>
     </driver>
+    <driver id="d9c8f096-7084-42f5-bf28-94039f5f850c" name="User Driver [2]" driver-class="java.sql.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+    </driver>
   </component>
 </application>
