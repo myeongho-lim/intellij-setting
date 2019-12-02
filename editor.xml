@@ -1,4 +1,9 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="REFORMAT_ON_PASTE" value="2" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Courier New" />
