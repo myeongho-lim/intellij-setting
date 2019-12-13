@@ -1,18 +1,18 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\scup-web\src\main\java\kr\go\scup\web\sample\SampleController.java [scup-web]'" />
+    <option name="defaultScopeName" value="File '...\scup-web\src\main\java\kr\go\scup\web\sample\SampleController.java [scup-web]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '...\scup-web\src\main\java\kr\go\scup\web\sample\SampleController.java [scup-web]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
