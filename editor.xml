@@ -7,6 +7,9 @@
     <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Courier New" />
   </component>
+  <component name="EditorSettings">
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+  </component>
   <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true">
     <option name="autoAliasTable" value="true" />
   </component>
