@@ -5,10 +5,10 @@
       <mapping ext="mpp" type="Native" />
       <mapping ext="erwin" type="Native" />
       <mapping ext="hwp" type="Native" />
+      <mapping pattern="jar 추가시 해야할 사항" type="PLAIN_TEXT" />
       <mapping pattern="tomcat-option" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
-      <mapping pattern="jar 추가시 해야할 사항" type="PLAIN_TEXT" />
       <mapping pattern="법정동-건문정보 text2db" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="cmap" type="PLAIN_TEXT" />
