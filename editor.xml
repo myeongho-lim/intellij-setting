@@ -4,8 +4,8 @@
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="12" />
-    <option name="FONT_FAMILY" value="Courier New" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="JetBrains Mono" />
   </component>
   <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true">
     <option name="autoAliasTable" value="true" />
