@@ -5,6 +5,32 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="AsciiDoc" value="true" />
+        <entry key="CFML" value="false" />
+        <entry key="CSS" value="true" />
+        <entry key="Groovy" value="false" />
+        <entry key="HTML" value="true" />
+        <entry key="Haml" value="false" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="JSP" value="true" />
+        <entry key="JSPX" value="true" />
+        <entry key="JavaScript" value="true" />
+        <entry key="SASS" value="false" />
+        <entry key="SCSS" value="true" />
+        <entry key="SQL" value="true" />
+        <entry key="Stylus" value="false" />
+        <entry key="TypeScript" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="kotlin" value="false" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true">
     <option name="autoAliasTable" value="true" />
   </component>
