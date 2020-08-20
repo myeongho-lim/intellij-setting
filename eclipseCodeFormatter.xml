@@ -20,7 +20,8 @@
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1597888858312" />
           <option name="name" value="nature" />
-          <option name="pathToConfigFileJava" value="C:/withnature/codetemplates_with-nature.xml" />
+          <option name="pathToConfigFileJava" value="C:/foodcon/naver-eclipse-formatter.xml" />
+          <option name="selectedJavaProfile" value="Naver coding convention" />
         </Settings>
       </list>
     </option>
