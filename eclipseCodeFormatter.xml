@@ -16,6 +16,12 @@
           <option name="pathToConfigFileJava" value="C:/project/workspace/myformat.xml" />
           <option name="selectedJavaProfile" value="myFormat" />
         </Settings>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1597888858312" />
+          <option name="name" value="nature" />
+          <option name="pathToConfigFileJava" value="C:/withnature/codetemplates_with-nature.xml" />
+        </Settings>
       </list>
     </option>
   </component>
