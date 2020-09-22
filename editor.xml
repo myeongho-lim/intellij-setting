@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
   <component name="DefaultFont">
@@ -31,6 +32,16 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="JavaLens" />
+    <settingsMapElement>
+      <JAVA.JavaLens>
+        <JavaLensSettings>
+          <option name="showUsages" value="true" />
+        </JavaLensSettings>
+      </JAVA.JavaLens>
+    </settingsMapElement>
   </component>
   <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true">
     <option name="autoAliasTable" value="true" />
