@@ -18,9 +18,13 @@
           <option name="url" value="http://gitlab.wn.com:3080" />
           <option name="userName" value="im7015@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-io/sagan.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\withnature" />
+    <option name="cloneParentDir" value="C:\spring" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
